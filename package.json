@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/teamwork-eighteen-js/",
+    "build": "vite build --base=/js_100_Jey2507/",
     "preview": "vite preview"
   },
   "devDependencies": {
